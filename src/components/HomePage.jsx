@@ -12,7 +12,7 @@ const HomePage = () => {
     <img src={Gicon} alt="img" className="" />
     </div>
     <div className="">
-      <div className="md:w-128 w-122 bg-white">
+      <div className="md:w-128 w-122 md:mx-0 mx-auto bg-white">
         <div className='mx-auto'>
           <img src={Lolom} alt="img" className="mx-auto my-6 w-56 md:w-72" />
         </div>
